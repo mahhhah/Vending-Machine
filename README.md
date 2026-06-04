@@ -36,6 +36,6 @@ Projeto Java para uma máquina de vending, organizado com princípios SOLID e pa
 
 ## Executar testes
 
-//```bash
+```bash
 mvn test
 ```
