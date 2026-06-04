@@ -4,6 +4,7 @@ import com.vendingmachine.vending_machine.model.Product;
 
 
 /**
+
  * Representa a fábrica dos produtos
  * Implementa o pattern Factory Method que centraliza a criação de produtos.
  */
