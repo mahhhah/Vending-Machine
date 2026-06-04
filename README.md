@@ -1,6 +1,6 @@
 # Vending Machine
 
-Projeto Java para uma máquina de vending, organizado com princípios SOLID e padrões de desenho.
+Projeto Java para simular uma máquina de vending, feito para a disciplina de Engenharia de Software.
 
 ## Funcionalidades
 
